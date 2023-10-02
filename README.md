@@ -1,2 +1,2 @@
-# DataScienceWeek2
-Week two materials for data science class
+# DataScienceClass
+Practical materials for "Data Science for Geographers"
